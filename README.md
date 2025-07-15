@@ -1,3 +1,3 @@
 Link Project :  https://calendraa-havanchiens-projects.vercel.app/
 
-![Screenshot](./assets/screenshot.png)
+![Screenshot](./public/assets/1.png)
